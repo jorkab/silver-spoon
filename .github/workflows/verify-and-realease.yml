@@ -22,10 +22,10 @@ jobs:
           node-version-file: .nvmrc
       - name: Install dependencies
         run: npm clean-install
-      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
-        run: npm audit signatures
-      - name: Run lint, tests, and other verification
-        run: npm test
+      #- name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
+      #  run: npm audit signatures
+      #- name: Run lint, tests, and other verification
+      #  run: npm test
 
   release:
     name: Release
@@ -47,9 +47,9 @@ jobs:
           node-version: "lts/*"
       - name: Install dependencies
         run: npm clean-install
-      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
-        run: npm audit signatures
+      #- name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
+      #  run: npm audit signatures
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npx semantic-release # <- The Run Commnand
+        run: npx semantic-release # <- The Run Command

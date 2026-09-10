@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.33](https://github.com/jorkab/silver-spoon/compare/v1.1.32...v1.1.33) (2026-09-10)
+
+### Bug Fixes
+
+* loop ([c152c89](https://github.com/jorkab/silver-spoon/commit/c152c8945bf2794f7283266793e4e4c754c9ff74))
+* loop ([29bdb90](https://github.com/jorkab/silver-spoon/commit/29bdb9089c0184fdfe95d958152fb69dc9e8b3a9))
+
 ## [1.1.32](https://github.com/jorkab/silver-spoon/compare/v1.1.31...v1.1.32) (2026-09-10)
 
 ## [1.1.31](https://github.com/jorkab/silver-spoon/compare/v1.1.30...v1.1.31) (2026-09-10)

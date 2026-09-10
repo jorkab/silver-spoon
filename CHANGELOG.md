@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.1.31](https://github.com/jorkab/silver-spoon/compare/v1.1.30...v1.1.31) (2026-09-10)
+
 ## [1.1.30](https://github.com/jorkab/silver-spoon/compare/v1.1.29...v1.1.30) (2026-09-10)
 
 ## [1.1.29](https://github.com/jorkab/silver-spoon/compare/v1.1.28...v1.1.29) (2026-09-10)

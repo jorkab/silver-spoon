@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.2.0](https://github.com/jorkab/silver-spoon/compare/v1.1.34...v1.2.0) (2026-09-10)
+
+### Features
+
+* add commitlint ([#12](https://github.com/jorkab/silver-spoon/issues/12)) ([29d456f](https://github.com/jorkab/silver-spoon/commit/29d456f7a4765c1b1792308d3f84d515affa0776))
+
 ## [1.1.34](https://github.com/jorkab/silver-spoon/compare/v1.1.33...v1.1.34) (2026-09-10)
 
 ## [1.1.33](https://github.com/jorkab/silver-spoon/compare/v1.1.32...v1.1.33) (2026-09-10)

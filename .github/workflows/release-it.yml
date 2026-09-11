@@ -21,7 +21,7 @@ jobs:
         with:
           node-version-file: ".nvmrc"
       - run: npm ci
-      - run: npx release-it --ci
+      - run: npm run release --ci
         env:
           GITHUB_TOKEN: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}  
           GIT_AUTHOR_NAME: "github-actions[bot]"

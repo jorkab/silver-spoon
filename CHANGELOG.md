@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.3.0](https://github.com/jorkab/silver-spoon/compare/v1.2.0...v1.3.0) (2026-09-11)
+
+### Features
+
+* unify commitlint and release-it configurations ([#13](https://github.com/jorkab/silver-spoon/issues/13)) ([502148d](https://github.com/jorkab/silver-spoon/commit/502148da1a9d7bdef58dc4aaf6c2156ae7ab5bcb))
+
 # [1.2.0](https://github.com/jorkab/silver-spoon/compare/v1.1.34...v1.2.0) (2026-09-10)
 
 ### Features

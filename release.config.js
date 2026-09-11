@@ -1,4 +1,8 @@
-{
+const commitlint = {
+    extends: ['@commitlint/config-conventional'],
+};
+
+const releaseIt = {
     "git":{
         "requireCleanWorkingDir": true,
         "requireBranch": "main",
@@ -19,3 +23,5 @@
         }
     }
 }
+
+module.exports = process.env.ACTION_CONFIG === "commitlint"  ? commitlint : releaseIt;

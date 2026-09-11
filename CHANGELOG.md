@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.4.0](https://github.com/jorkab/silver-spoon/compare/v1.3.0...v1.4.0) (2026-09-11)
+
+### Features
+
+* update commitlint and release-it configurations to use same source of truth for types ([#14](https://github.com/jorkab/silver-spoon/issues/14)) ([ec032eb](https://github.com/jorkab/silver-spoon/commit/ec032ebf38352c60efe3e1d3808cfd1bd08e6917))
+
 # [1.3.0](https://github.com/jorkab/silver-spoon/compare/v1.2.0...v1.3.0) (2026-09-11)
 
 ### Features

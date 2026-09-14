@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.5.1](https://github.com/jorkab/silver-spoon/compare/v1.5.0...v1.5.1) (2026-09-14)
+
+### Code Refactoring
+
+* consume shared reusable workflows from gha-shared ([fc66df6](https://github.com/jorkab/silver-spoon/commit/fc66df64b9a4e3cf906752466e052f762efb5a1c))
+
 ## [1.5.0](https://github.com/jorkab/silver-spoon/compare/v1.4.0...v1.5.0) (2026-09-11)
 
 ### Features

@@ -1,3 +1,3 @@
-const { commitlint, releaseIt } = require("@jorkab/commit-conventions");
+const { commitlint, releaseIt } = require("commit-conventions");
 
-module.exports = process.env.ACTION_CONFIG === "commitlint" ? commitlint : releaseIt;
+module.exports = process.env.ACTION_CONFIG === "commitlint"  ? commitlint : releaseIt;

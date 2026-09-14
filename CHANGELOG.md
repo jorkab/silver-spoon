@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.5.0](https://github.com/jorkab/silver-spoon/compare/v1.4.0...v1.5.0) (2026-09-11)
+
+### Features
+
+* extract commitlint and release-it configurations to a separate … ([#15](https://github.com/jorkab/silver-spoon/issues/15)) ([07adf83](https://github.com/jorkab/silver-spoon/commit/07adf833d5a4367da45373e707072c9c27c1920b))
+
 ## [1.4.0](https://github.com/jorkab/silver-spoon/compare/v1.3.0...v1.4.0) (2026-09-11)
 
 ### Features

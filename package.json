@@ -14,9 +14,6 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
-  "workspaces": [
-    "packages/*"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it --ci --config release.config.js"

@@ -8,4 +8,4 @@ permissions:
 
 jobs:
   commitlint:
-    uses: jorkab/gha-shared/.github/workflows/commitlint.yml@v1
+    uses: jorkab/release-automation/.github/workflows/commitlint.yml@v2

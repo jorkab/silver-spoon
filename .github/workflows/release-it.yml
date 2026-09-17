@@ -11,6 +11,6 @@ permissions:
 
 jobs:
   release:
-    uses: jorkab/release-automation/.github/workflows/release-it.yml@v1
+    uses: jorkab/release-automation/.github/workflows/release-it.yml@v2
     secrets:
       release-token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
